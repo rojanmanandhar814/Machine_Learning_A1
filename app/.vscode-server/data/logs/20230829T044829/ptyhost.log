@@ -1,0 +1,1 @@
+2023-08-29 04:48:32.563 [error] [RPC Response] PtyService#reviveTerminalProcesses Cannot read properties of undefined (reading 'cwd')

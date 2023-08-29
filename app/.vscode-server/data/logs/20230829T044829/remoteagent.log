@@ -1,0 +1,25 @@
+2023-08-29 04:48:29.407 [info] 
+
+
+
+
+2023-08-29 04:48:29.558 [info] Extension host agent started.
+2023-08-29 04:48:30.108 [debug] No uninstalled extensions found.
+2023-08-29 04:48:31.607 [info] [127.0.0.1][7a2247e0][ManagementConnection] New connection established.
+2023-08-29 04:48:31.633 [info] Log level changed to info
+2023-08-29 04:48:32.362 [info] [127.0.0.1][c1c41de3][ExtensionHostConnection] New connection established.
+2023-08-29 04:48:32.406 [info] [127.0.0.1][c1c41de3][ExtensionHostConnection] <321> Launched Extension Host Process.
+2023-08-29 04:48:33.553 [error] TypeError: Cannot read properties of undefined (reading 'cwd')
+    at g.I (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:941)
+    at g.reviveTerminalProcesses (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:795)
+    at g.B.<computed> (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:27:22689)
+    at Object.call (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:17:4867)
+    at l.s (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at l.q (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at k.w (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at k.fire (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.X (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:8:27134)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)

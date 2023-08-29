@@ -1,0 +1,23 @@
+2023-08-28 11:12:21.618 [info] [Info  - 11:12:21 AM] (366) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-28 11:12:21.620 [info] [Info  - 11:12:21 AM] (366) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-28 11:12:21.621 [info] [Info  - 11:12:21 AM] (366) Starting service instance "code"
+2023-08-28 11:12:21.825 [info] [Info  - 11:12:21 AM] (366) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-08-28 11:12:21.833 [info] [Warn  - 11:12:21 AM] (366) stubPath /root/code/typings is not a valid directory.
+2023-08-28 11:12:21.929 [info] [Info  - 11:12:21 AM] (366) Assuming Python version 3.11
+2023-08-28 11:12:23.920 [info] [Info  - 11:12:23 AM] (366) Found 1 source file
+2023-08-28 11:12:32.799 [info] [Info  - 11:12:32 AM] (366) [BG(1)] Long operation: getSemanticTokens full at /root/code/app.py (6645ms)
+2023-08-28 11:12:42.957 [info] [Info  - 11:12:42 AM] (366) [IDX(2)] Long operation: scan packages /root/code (16357ms)
+2023-08-28 11:14:08.904 [info] [Info  - 11:14:08 AM] (366) [BG(1)] Long operation: parsing: /root/code/app.py (2230ms)
+2023-08-28 11:14:12.848 [info] [Info  - 11:14:12 AM] (366) [BG(1)] Long operation: checking: /root/code/app.py (3579ms)
+2023-08-28 11:14:12.849 [info] [Info  - 11:14:12 AM] (366) [BG(1)] Long operation: analyzing: /root/code/app.py (6176ms)
+2023-08-28 11:14:20.565 [info] [Info  - 11:14:20 AM] (366) [BG(1)] Long operation: checking: /root/code/app.py (2941ms)
+2023-08-28 11:14:20.566 [info] [Info  - 11:14:20 AM] (366) [BG(1)] Long operation: analyzing: /root/code/app.py (5097ms)
+2023-08-28 11:14:32.054 [info] [Info  - 11:14:32 AM] (366) [IDX(4)] Long operation: scan packages /root/code (15175ms)
+2023-08-28 11:14:35.377 [info] [Info  - 11:14:35 AM] (366) [IDX(4)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/__init__.pyi (2498ms)
+2023-08-28 11:14:35.918 [info] [Info  - 11:14:35 AM] (366) [IDX(4)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/__init__.pyi (3054ms)
+2023-08-28 11:14:38.926 [info] [Info  - 11:14:38 AM] (366) [IDX(4)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/base.pyi (3006ms)
+2023-08-28 11:14:41.694 [info] [Info  - 11:14:41 AM] (366) [IDX(4)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/calibration.pyi (2768ms)
+2023-08-28 11:14:45.849 [info] [Info  - 11:14:45 AM] (366) [IDX(4)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/conftest.pyi (3167ms)
+2023-08-28 11:14:58.315 [info] [Info  - 11:14:58 AM] (366) [IDX(4)] Long operation: index execution environment /root/code (25465ms)
+2023-08-28 11:14:58.372 [info] [Info  - 11:14:58 AM] (366) [IDX(4)] Long operation: index packages /root/code (25772ms)
+2023-08-28 11:40:15.182 [info] [Info  - 11:40:15 AM] (366) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1693222812097 at /root/code/app.py (2420ms)

@@ -1,0 +1,20 @@
+2023-08-28 04:26:18.173 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-28 04:26:18.174 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-28 04:26:18.175 [info] Experiment 'pythonTestAdapter' is active
+2023-08-28 04:26:18.175 [info] Test server listening.
+2023-08-28 04:26:18.176 [info] > conda info --json
+2023-08-28 04:26:18.266 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-28 04:26:18.272 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-28 04:26:18.469 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-28 04:26:18.636 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-28 04:26:18.637 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-28 04:26:18.669 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 04:26:18.694 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-08-28 04:26:18.696 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-08-28 04:26:18.697 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-08-28 04:26:18.746 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 04:26:18.938 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 04:26:19.019 [info] Python interpreter path: /usr/local/bin/python
+2023-08-28 04:26:22.043 [info] Starting Pylance language server.
+2023-08-28 04:32:12.239 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 04:32:32.489 [info] Discover tests for workspace name: code - uri: /root/code/app.py

@@ -1,0 +1,26 @@
+2023-08-29 08:02:53.974 [info] [Info  - 8:02:53 AM] (458) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-29 08:02:53.981 [info] [Info  - 8:02:53 AM] (458) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-29 08:02:53.982 [info] [Info  - 8:02:53 AM] (458) Starting service instance "code"
+2023-08-29 08:02:54.132 [info] [Info  - 8:02:54 AM] (458) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-08-29 08:02:54.140 [info] [Warn  - 8:02:54 AM] (458) stubPath /root/code/typings is not a valid directory.
+2023-08-29 08:02:54.304 [info] [Info  - 8:02:54 AM] (458) Assuming Python version 3.11
+2023-08-29 08:02:55.861 [info] [Info  - 8:02:55 AM] (458) Found 1 source file
+2023-08-29 08:03:01.051 [info] [Info  - 8:03:01 AM] (458) [BG(1)] Long operation: getSemanticTokens full at /root/code/app.py (2906ms)
+2023-08-29 08:03:15.236 [info] [Info  - 8:03:15 AM] (458) [IDX(2)] Long operation: scan packages /root/code (16618ms)
+2023-08-29 08:03:29.473 [info] [Info  - 8:03:29 AM] (458) [BG(1)] Long operation: analyzing: /root/code/app.py (2380ms)
+2023-08-29 08:03:30.635 [info] [Info  - 8:03:30 AM] (458) [IDX(3)] Long operation: scan packages /root/code (2501ms)
+2023-08-29 08:03:42.489 [info] [Info  - 8:03:42 AM] (458) [BG(1)] Long operation: checking: /root/code/app.py (4508ms)
+2023-08-29 08:03:42.490 [info] [Info  - 8:03:42 AM] (458) [BG(1)] Long operation: analyzing: /root/code/app.py (6117ms)
+2023-08-29 08:03:54.294 [info] [Info  - 8:03:54 AM] (458) [IDX(4)] Long operation: scan packages /root/code (16993ms)
+2023-08-29 08:07:47.010 [info] [Info  - 8:07:47 AM] (458) [BG(1)] Long operation: parsing: /root/code/app.py (2250ms)
+2023-08-29 08:07:51.264 [info] [Info  - 8:07:51 AM] (458) [BG(1)] Long operation: checking: /root/code/app.py (3942ms)
+2023-08-29 08:07:51.265 [info] [Info  - 8:07:51 AM] (458) [BG(1)] Long operation: analyzing: /root/code/app.py (6504ms)
+2023-08-29 08:07:58.999 [info] [Info  - 8:07:58 AM] (458) [BG(1)] Long operation: checking: /root/code/app.py (2863ms)
+2023-08-29 08:07:59.000 [info] [Info  - 8:07:59 AM] (458) [BG(1)] Long operation: analyzing: /root/code/app.py (4840ms)
+2023-08-29 08:08:13.962 [info] [Info  - 8:08:13 AM] (458) [IDX(6)] Long operation: scan packages /root/code (18421ms)
+2023-08-29 08:08:18.065 [info] [Info  - 8:08:18 AM] (458) [IDX(6)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/typeshed-fallback/stubs/python-dateutil/dateutil/__init__.pyi (3072ms)
+2023-08-29 08:08:18.351 [info] [Info  - 8:08:18 AM] (458) [IDX(6)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/typeshed-fallback/stubs/python-dateutil/dateutil/__init__.pyi (3375ms)
+2023-08-29 08:08:22.322 [info] [Info  - 8:08:22 AM] (458) [IDX(6)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/pandas/__init__.pyi (3867ms)
+2023-08-29 08:08:22.342 [info] [Info  - 8:08:22 AM] (458) [IDX(6)] Long operation: index execution environment /root/code (7379ms)
+2023-08-29 08:08:22.384 [info] [Info  - 8:08:22 AM] (458) [IDX(6)] Long operation: index packages /root/code (7783ms)
+2023-08-29 08:27:39.664 [info] [Info  - 8:27:39 AM] (458) [FG] Long operation: parsing: /root/code/app.py (2167ms)
